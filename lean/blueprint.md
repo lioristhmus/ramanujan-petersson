@@ -1,6 +1,6 @@
 # ramanujan-petersson Blueprint
 
-Source file: `/Users/studio/research/papers/math/module/ramanujan-petersson/ramanujan-petersson.md`
+Source file: `../ramanujan-petersson.md`
 Project slug: `ramanujan-petersson`
 Lean package: `RamanujanPetersson`
 

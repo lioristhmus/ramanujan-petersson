@@ -1,4 +1,4 @@
-source_path: "/Users/studio/research/papers/math/module/ramanujan-petersson/ramanujan-petersson.md"
+source_path: "../ramanujan-petersson.md"
 source_basename: "ramanujan-petersson.md"
 project_slug: "ramanujan-petersson"
 lean_package: "RamanujanPetersson"
